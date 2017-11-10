@@ -1,5 +1,6 @@
 {
     "name": "li-faifai/common",
+    "license": "MIT",
     "require": {
         "php": "^5.5"
     },
@@ -9,5 +10,9 @@
             "email": "15011166177@163.com",
             "homepage": "https://github.com/Li-FaiFai/common"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": { "lifaifai\\common\\": "src" }
+    },
+    "require": {}
 }
