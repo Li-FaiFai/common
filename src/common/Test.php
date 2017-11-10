@@ -1,5 +1,5 @@
 <?php
-namespace lifaifai\common;
+namespace lifaifai;
 
 class Test
 {

@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "lifaifai\\common\\": "src" }
+        "psr-4": { "lifaifai": "src/common" }
     },
     "require": {}
 }
