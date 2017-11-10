@@ -1,0 +1,13 @@
+{
+    "name": "li-faifai/common",
+    "require": {
+        "php": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "Li-FaiFai",
+            "email": "15011166177@163.com",
+            "homepage": "https://github.com/Li-FaiFai/common"
+        }
+    ]
+}
